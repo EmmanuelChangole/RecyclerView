@@ -1,2 +1,2 @@
 # RecyclerView
-this repo shows implementation of Adapteres,Recycler view and ArrayList 
+this repo shows implementation of Adapters,Recycler view and ArrayList 
